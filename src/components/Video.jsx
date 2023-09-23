@@ -33,7 +33,7 @@ function Video({ video }) {
                 <p className="text-sm font-semibold">{video.title}</p>
               </a>
               <a
-                className="text-gray-500 text-xs mt-2 hover:text-gray-800"
+                className="text-gray-500 text-xs mt-2 hover:text-gray-800 dark:hover:text-white"
                 href="/#"
               >
                 {" "}
